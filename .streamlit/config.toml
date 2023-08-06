@@ -3,3 +3,6 @@ base="light"
 primaryColor="#f9002d"
 secondaryBackgroundColor="#f5f5f5"
 textColor="#262730"
+
+[server]
+st.column = st.beta_column
