@@ -12,7 +12,6 @@ from lime import lime_text
 import re
 
 import matplotlib.pyplot as plt
-from plotly.offline import iplot
 import plotly.graph_objs as go
 import plotly.express as px
 
