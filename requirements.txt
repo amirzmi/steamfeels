@@ -23,6 +23,7 @@ imblearn
 streamlit-aggrid
 streamlit_metrics==0.1.0
 Image
+plotly
 
 #Data-preprocessing packages
 tqdm
